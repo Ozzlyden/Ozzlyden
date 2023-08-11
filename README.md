@@ -4,7 +4,7 @@
 - 🌱 Estudando Python
 - 📫 Contate-me no email: valente-victor@hotmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Gosto muito de games e cultura japonesa
+- ⚡ Fun fact: Gosto muito de games e cultura japonesa. Ozzlyden é o meu nickname de desenvolvedor
 
 <div align="center">
   <a href="https://github.com/Ozzlyden">
